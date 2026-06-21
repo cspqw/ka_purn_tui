@@ -1,0 +1,27 @@
+# 配置文件（含 API key，勿提交）
+config.json
+
+# 小说项目元数据
+.novel_meta.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE
+.trae/
+.idea/
+.vscode/
+*.swp
+
+# 测试临时
+_smoke_test*.py
